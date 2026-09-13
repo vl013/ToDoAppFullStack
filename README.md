@@ -1,10 +1,10 @@
-# To-Do Application
-Full-stack To-Do application built with a 4-tier architecture.
+# ToDo App
+Повноцінний додаток ToDoApp, побудований за 4-шаровою архітектурою.
 
 ## Technologies
-* **Backend:** .NET (REST API, EF Core, SQLite)
-* **Frontend:** Angular, Bootstrap
+* Backend: .NET (REST API, EF Core, SQLite)
+* Frontend: Angular, Bootstrap
 
 ## How to run
-1. **Backend:** Open the `ToDoApp.API` folder in a terminal and run `dotnet run`.
-2. **Frontend:** Open the `ToDoApp.Client` folder in a terminal, run `npm install`, then `ng serve`.
+1. Backend: Відкрий папку `ToDoApp.API` в терміналі і запусти `dotnet run`.
+2. Frontend: Відкрий папку `ToDoApp.Client` в терміналі і запусти `npm install`, тоді введи `ng serve`.  
