@@ -1,0 +1,9 @@
+# .NET
+bin/
+obj/
+appsettings.Development.json
+
+# Angular
+node_modules/
+dist/
+.angular/
